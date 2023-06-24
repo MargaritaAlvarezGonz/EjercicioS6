@@ -17,4 +17,4 @@ public class EjemploTrow {
 	}
 	}
 
-//Repasar clase 132 donde se ocupa la palabra throws
+//Repasar clase 132 y 133 donde se ocupa la palabra throws
